@@ -16,6 +16,7 @@ public class AverageNumbers {
         System.out.println("number 2 = "+num2);
         System.out.println("number 3 = "+num3);
         System.out.println("Average is = "+ave);
+        System.out.println(" Avg no. is="+ave);
     }
     
 
